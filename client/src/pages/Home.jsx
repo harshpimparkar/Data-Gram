@@ -3,7 +3,7 @@ import './Pages.css';
 const Home = () => {
   return (
     <div>
-      Hello
+      Home
     </div>
   )
 }
